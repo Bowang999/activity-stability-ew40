@@ -10,9 +10,17 @@ This project studies whether stocks with more stable **relative trading activity
 
 ## Formula
 
-$$RA_{i,t}=\frac{Amount_{i,t}}{\frac1{20}\sum_{j=1}^{20}Amount_{i,t-j}}$$
-$$\lambda=39/41,\quad p_{i,k,t}=\frac{\lambda^k}{\sum_{j=0}^{m_{i,t}-1}\lambda^j},\quad \mu_{i,t}=\sum_{k=0}^{m_{i,t}-1}p_{i,k,t}RA_{i,t-k}$$
-$$AS_{i,t}=\sqrt{\frac{\sum_{k=0}^{m_{i,t}-1}p_{i,k,t}(RA_{i,t-k}-\mu_{i,t})^2}{1-\sum_{k=0}^{m_{i,t}-1}p_{i,k,t}^2}}$$
+$$
+RA_{i,t}=\frac{Amount_{i,t}}{\frac1{20}\sum_{j=1}^{20}Amount_{i,t-j}}
+$$
+
+$$
+\lambda=39/41,\quad p_{i,k,t}=\frac{\lambda^k}{\sum_{j=0}^{m_{i,t}-1}\lambda^j},\quad \mu_{i,t}=\sum_{k=0}^{m_{i,t}-1}p_{i,k,t}RA_{i,t-k}
+$$
+
+$$
+AS_{i,t}=\sqrt{\frac{\sum_{k=0}^{m_{i,t}-1}p_{i,k,t}(RA_{i,t-k}-\mu_{i,t})^2}{1-\sum_{k=0}^{m_{i,t}-1}p_{i,k,t}^2}}
+$$
 
 `m` is the continuous valid RA history, with at least 40 observations. Missing RA resets it. EW40 is a decay span using the full valid segment, **not a trailing 40-day truncation and not STD20 followed by EMA40**. The denominator excludes today. The variance uses a finite-weight correction; this does not establish unbiased estimation under serial dependence.
 
@@ -25,6 +33,7 @@ Processing: average cross-sectional ranks → ONE joint industry / log float-cap
 Long/short linear signals target +100%/−100% NAV, rebalance daily, and execute t-close information at t+1 close; first holding return is t+1 to t+2. Actual positions can differ due to freezes and costs. Positions continue across 2025; charts only rebase NAV. Costs are charged on actual **bilateral** traded notional. CAGR uses 252 sessions; Sharpe uses rf=0 and sample SD. The 5D/21D labels are prediction horizons, not separately tested rebalancing schedules.
 
 Six-style-controlled portfolios:
+
 | period | cost_bps | annual_return_pct | sharpe | max_drawdown_pct | one_way_turnover_pct |
 | --- | --- | --- | --- | --- | --- |
 | research | 0 | 13.32 | 2.66 | 7.028 | 11.19 |
@@ -75,7 +84,7 @@ python scripts/render_cost_chart.py
 python examples/make_demo.py
 ```
 
-The reference code reproduces the **estimator**, one-date joint projection, HAC/BY inference and aggregate-ledger summaries. The release audit recomputes all108 portfolio metrics, 216 IC statistics,84 new FMB statistics and original552/new372/combined924 BY adjustments from released aggregates. It does **not** recreate the original stock-level universe or trading engine. Provider market panels, eligibility masks and holdings are not redistributed. A real empirical rerun requires those inputs and the execution specification in [methodology](reports/methodology.md). Synthetic demo results are not empirical results.
+The reference code reproduces the **estimator**, one-date joint projection, HAC/BY inference and aggregate-ledger summaries. The release audit recomputes all 108 portfolio metrics, 216 IC statistics, 84 new FMB statistics and the original 552 / new 372 / combined 924 BY adjustments from released aggregates. It does **not** recreate the original stock-level universe or trading engine. Provider market panels, eligibility masks and holdings are not redistributed. A real empirical rerun requires those inputs and the execution specification in [methodology](reports/methodology.md). Synthetic demo results are not empirical results.
 
 ## Research lineage
 
