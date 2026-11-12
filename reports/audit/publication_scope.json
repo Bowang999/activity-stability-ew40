@@ -1,0 +1,13 @@
+{
+  "factor": "G02D05",
+  "direction": -1,
+  "source_end": "2026-10-20",
+  "all_history_previously_viewed": true,
+  "official_barra": false,
+  "full_stock_level_backtest_reproduced_by_release": false,
+  "release_recomputes_aggregate_statistics": true,
+  "original_test_family": 552,
+  "incremental_test_family": 372,
+  "combined_sensitivity_family": 924,
+  "no_raw_market_data_or_positions": true
+}

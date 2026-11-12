@@ -1,0 +1,38 @@
+{
+  "registered_utc": "2026-11-11T20:17:01.823114+00:00",
+  "plan": {
+    "primary_factor": "AS_EW40, original G02D05 unchanged, direction -1",
+    "turnover": "Daily source Volume / CirculatedShare; fraction; observed zero-volume days retained, unavailable observations missing; no clipping, no forward fill.",
+    "baselines": {
+      "CV20": "Sample STD20(turnover)/MEAN20(turnover), full current-inclusive20 sessions, direction -1, no extra smoothing.",
+      "CVEW40": "Adjusted geometric-weight sample STD(turnover)/same adjusted weighted mean; lambda39/41, minimum40 consecutive valid observations, missing resets; direction -1."
+    },
+    "baseline_status": "No archived exact user turnover-CV definition located. Fixed standard20D main and EW40 memory-matched secondary before new outputs; no parameter/sign optimization.",
+    "universe": "Reconstruct and verify archived ten-configuration common universe; intersect AS, both CVs and all6 styles at t only; same pool/dates across all18 books; no future-survival restriction.",
+    "processing": "Raw average ranks -> ONE joint industry + log float-cap + named style/CV/AS rank OLS -> population residual zscore; negative direction for all3 raw factors. No re-ranking residuals or post-projection smoothing.",
+    "cases": "For each base/six: AS,CV20,CVEW40, AS|CV20,AS|CVEW40,CV20|AS,CVEW40|AS, equal-score AS+CV20, equal-score AS+CVEW40. Blends use50/50 standardized processed signals; no fitted weights.",
+    "regressions": "For each base/six: AS alone,CV20 alone,CVEW40 alone,AS+CV20 jointly,AS+CVEW40 jointly. Negatively oriented raw average ranks standardized on full t-known common pool before endpoints; characteristic FMB, no IV2SLS or causality.",
+    "execution": "Reuse original audited cost engine; +100/-100 linear, daily, t signal ->t+1 close fill -> first return t+1..t+2, freeze untradable inventory, no failed-order redistribution; continuous2025; 0/10/20bp actual bilateral traded amount, one-wayTO=bilateral/2.",
+    "endpoints": "1/5/21-session simple close returns starting t+1close; require observed endpoints, never cross period ends.",
+    "statistics": "Primary two-sided HAC63, lag21/126 sensitivity; paired63-session circular bootstrap1999 for1D incremental diagnostics. BY/BH over all new372 hypotheses:216IC means +84FMB means +48paired blend-minus-CV IC changes +24paired book-return changes. Also old552+new372=924 exploratory sensitivity. CI raw95%, no multiplicity-adjusted CI.",
+    "periods": {
+      "research": [
+        "2010-01-01",
+        "2024-12-31"
+      ],
+      "later": [
+        "2025-01-01",
+        "2026-10-20"
+      ]
+    },
+    "costs": [
+      0,
+      10,
+      20
+    ],
+    "no_selection": true,
+    "exploratory": true,
+    "limitations": "All history already viewed. New bounded-family q does not correct historical library mining; existing PIT, terminal-delisting, borrowing and capacity limitations remain. Standard-window benchmark is an explicit assumption, not a claimed reproduction of an unspecified existing factor."
+  },
+  "initial_code_sha256": "354916b7fe0aac29c4c5ebbaaedc78d7365bae9e9a4a45d0081db5c7501010b5"
+}

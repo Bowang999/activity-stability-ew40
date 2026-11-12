@@ -1,0 +1,368 @@
+[
+  {
+    "file": "reports/figures/01_Formula.png",
+    "sha256": "99e2150f230a11a705dceb8c5631c887c5ba33e99fbe69a05d0c07fcb05ea5de",
+    "source_name": "01_Formula.png",
+    "source_sha256": "99e2150f230a11a705dceb8c5631c887c5ba33e99fbe69a05d0c07fcb05ea5de"
+  },
+  {
+    "file": "reports/figures/02_Cumulative_NAV.png",
+    "sha256": "a17d15a997c1ed477c9a5262be2ef2fc88ef9c7244cd5713ed1914a3ec9d9955",
+    "source_name": "02_Cumulative_NAV.png",
+    "source_sha256": "a17d15a997c1ed477c9a5262be2ef2fc88ef9c7244cd5713ed1914a3ec9d9955"
+  },
+  {
+    "file": "reports/figures/03_IC_RankIC.png",
+    "sha256": "d51a3505837bdfc26e368623a5d64ad9479a776763ce0b66af75d1ad622b0de3",
+    "source_name": "03_IC_RankIC.png",
+    "source_sha256": "d51a3505837bdfc26e368623a5d64ad9479a776763ce0b66af75d1ad622b0de3"
+  },
+  {
+    "file": "reports/figures/04_Decile_NAV.png",
+    "sha256": "cd1018dc106573780dd3ee25595889ff105c7f8496dc0a853bc205afe5f80f98",
+    "source_name": "04_Decile_NAV.png",
+    "source_sha256": "cd1018dc106573780dd3ee25595889ff105c7f8496dc0a853bc205afe5f80f98"
+  },
+  {
+    "file": "reports/figures/05_Style_Controls.png",
+    "sha256": "82df15a1714cfea46a811dbf9705b17a5f799d4bfc7034640ceb09b4c6ff4691",
+    "source_name": "05_Style_Controls.png",
+    "source_sha256": "82df15a1714cfea46a811dbf9705b17a5f799d4bfc7034640ceb09b4c6ff4691"
+  },
+  {
+    "file": "reports/figures/06_Controlled_IC_RankIC.png",
+    "sha256": "28586d1159f6288609257101e0dfb807f72526a8b5449049fb21dba4e2b9abd4",
+    "source_name": "06_Controlled_IC_RankIC.png",
+    "source_sha256": "28586d1159f6288609257101e0dfb807f72526a8b5449049fb21dba4e2b9abd4"
+  },
+  {
+    "file": "reports/figures/07_Significance_p_q.png",
+    "sha256": "3f2d01e48265aa106fdf8460c4fe33846add9a4e6990907f252951b2e8f30d18",
+    "source_name": "07_Significance_p_q.png",
+    "source_sha256": "3f2d01e48265aa106fdf8460c4fe33846add9a4e6990907f252951b2e8f30d18"
+  },
+  {
+    "file": "reports/figures/08_Fama_MacBeth.png",
+    "sha256": "d735099dc71fa842199d72a7d5af8ef14d4c3df40169b67fc5e4984ca172a36b",
+    "source_name": "08_Fama_MacBeth.png",
+    "source_sha256": "d735099dc71fa842199d72a7d5af8ef14d4c3df40169b67fc5e4984ca172a36b"
+  },
+  {
+    "file": "reports/figures/09_Parameter_Neighborhood.png",
+    "sha256": "111e61a5e8fd94ba30ed2b6994b704d1b66275dc727f592e11caa9e0763118e2",
+    "source_name": "09_Parameter_Neighborhood.png",
+    "source_sha256": "111e61a5e8fd94ba30ed2b6994b704d1b66275dc727f592e11caa9e0763118e2"
+  },
+  {
+    "file": "reports/figures/10_Execution_Delay.png",
+    "sha256": "464b017f450922ae9f4d7f49a49d5d8488d31735b1a68531185ff113b1b9ac95",
+    "source_name": "10_Execution_Delay.png",
+    "source_sha256": "464b017f450922ae9f4d7f49a49d5d8488d31735b1a68531185ff113b1b9ac95"
+  },
+  {
+    "file": "reports/figures/11_Universe_Filters.png",
+    "sha256": "414a1466a6ccf3e5cde4ca2b97a06632b3612c6fed918bddc460eaca29f0f921",
+    "source_name": "11_Universe_Filters.png",
+    "source_sha256": "414a1466a6ccf3e5cde4ca2b97a06632b3612c6fed918bddc460eaca29f0f921"
+  },
+  {
+    "file": "reports/figures/12_Six_Styles_All_Costs.png",
+    "sha256": "cc9feebcc5ce4eb03cae5a0cafb0a26d452df925c1788843ddefa7d40b7b943d",
+    "source_name": "EW40_Six_Styles_Cumulative_NAV_0_10_20bp.png",
+    "source_sha256": "cc9feebcc5ce4eb03cae5a0cafb0a26d452df925c1788843ddefa7d40b7b943d"
+  },
+  {
+    "file": "reports/figures/13_Fixed_Definitions.png",
+    "sha256": "bde084ac34716564bef24d2ff460e8d2622db0b9ccc3a50023e6e0b33f552d45",
+    "source_name": "01_Fixed_Definitions.png",
+    "source_sha256": "bde084ac34716564bef24d2ff460e8d2622db0b9ccc3a50023e6e0b33f552d45"
+  },
+  {
+    "file": "reports/figures/14_Signal_Overlap.png",
+    "sha256": "366f0c1c94c2cb20f383bb699c2cb4349e07ffaf7fc49393d563fb8f2c2a10c6",
+    "source_name": "02_Signal_Overlap.png",
+    "source_sha256": "366f0c1c94c2cb20f383bb699c2cb4349e07ffaf7fc49393d563fb8f2c2a10c6"
+  },
+  {
+    "file": "reports/figures/15_1D_Incremental_IC.png",
+    "sha256": "22012a28c7180cbda205a8fde65caa77af36d704161c74502b071d9f4cdd68b8",
+    "source_name": "03_1D_Incremental_IC.png",
+    "source_sha256": "22012a28c7180cbda205a8fde65caa77af36d704161c74502b071d9f4cdd68b8"
+  },
+  {
+    "file": "reports/figures/16_Portfolio_NAV_10bp.png",
+    "sha256": "09dab6f6d318046f8d9262a2861f4e2975c9eb2725ac66d41ffc3d68faee449c",
+    "source_name": "04_Portfolio_NAV_10bp.png",
+    "source_sha256": "09dab6f6d318046f8d9262a2861f4e2975c9eb2725ac66d41ffc3d68faee449c"
+  },
+  {
+    "file": "reports/figures/17_Portfolio_Metrics_10bp.png",
+    "sha256": "c386b4d8991115afff38150116ade30ef27400752f2e387572011cadd5597b7a",
+    "source_name": "05_Portfolio_Metrics_10bp.png",
+    "source_sha256": "c386b4d8991115afff38150116ade30ef27400752f2e387572011cadd5597b7a"
+  },
+  {
+    "file": "reports/figures/18_Joint_FMB.png",
+    "sha256": "0fb44df07b58d2385272906e40cbc91704814357fc897bd6403a6ad8de368653",
+    "source_name": "06_Joint_FMB.png",
+    "source_sha256": "0fb44df07b58d2385272906e40cbc91704814357fc897bd6403a6ad8de368653"
+  },
+  {
+    "file": "reports/ew40_research_snapshot.pdf",
+    "sha256": "78ec9692362c7ba74c3249e2bd01d2f61f53164d2564e2a9fb38eaf68ca02435",
+    "source_name": "成交稳态EW40_完整研究报告_20261112.pdf",
+    "source_sha256": "78ec9692362c7ba74c3249e2bd01d2f61f53164d2564e2a9fb38eaf68ca02435"
+  },
+  {
+    "file": "data/derived/portfolio_metrics.csv",
+    "sha256": "a94c43ad8af380e9a3a2ecea73305878d0197120c7e186f2fbfa26cd8dfa5911",
+    "source_name": "portfolio_metrics.csv",
+    "source_sha256": "bdeb539b02b608b0b60a515b63ffed4b443868e0a3a58fe8d2b23a7539e077f6"
+  },
+  {
+    "file": "data/derived/incremental_all_tests_p_q.csv",
+    "sha256": "94811dc2c187020769e096427f195be0691df80a6c3d59c4f25509726c5a0268",
+    "source_name": "all_tests_p_q.csv",
+    "source_sha256": "16da385889427ed7884b64099cac88f33e93630ea3b7b49f34a7f0581a39a160"
+  },
+  {
+    "file": "data/derived/incremental_six_styles_IC_p_q.csv",
+    "sha256": "0999f66f1815cdcb088c50005b4f382d33c81aa5ffb87f6abc359bada313b52a",
+    "source_name": "six_styles_IC_p_q.csv",
+    "source_sha256": "e600f8b04dcb4d01eb71dad01e4767516a505e62aaef48d822fcf528b0c7f86b"
+  },
+  {
+    "file": "data/derived/incremental_six_styles_FMB_p_q.csv",
+    "sha256": "6130e1924f455bc33ef35e58471be8311028f0499ee14463a036d48c049f9e12",
+    "source_name": "six_styles_FMB_p_q.csv",
+    "source_sha256": "ad94d0efc89f761ee4281dc325e80f74572d3fb38c0556d7862af780fa28633e"
+  },
+  {
+    "file": "data/derived/incremental_signal_correlations.csv",
+    "sha256": "4faa911513e33ed0be5336c42c8d571c63247434f6e137251a58d83fed58d600",
+    "source_name": "signal_correlations.csv",
+    "source_sha256": "ad9bfb2bdfabab19336228549539c1f6fbd45dd06ee4e2a871ea08cbf711eb36"
+  },
+  {
+    "file": "data/derived/incremental_blend_minus_baseline_metrics.csv",
+    "sha256": "3fb2c5f7325a234c851036390f890357add263359cbcdd6dd41a49f7f0cc80bc",
+    "source_name": "blend_minus_baseline_metrics.csv",
+    "source_sha256": "d5bb2957d4f71009f087c833cc6623fcf15378ad40c32cc24ffa54708dfed382"
+  },
+  {
+    "file": "data/derived/incremental_HAC_bandwidth_sensitivity.csv",
+    "sha256": "d60108e121dd729d811e5c0307a320305f2a8a071dc11efe5679ef3fc79b647f",
+    "source_name": "HAC_bandwidth_sensitivity.csv",
+    "source_sha256": "30d65d790f5c65a4740bd0fc3553c099722b55e94af83fb27eb98a19ad3f49c1"
+  },
+  {
+    "file": "data/derived/incremental_block63_bootstrap_sensitivity.csv",
+    "sha256": "a1400fda291074a6dda7d896f5881f75ada5d5ed39ff39fcfffe2e70d02c8e8f",
+    "source_name": "block63_bootstrap_sensitivity.csv",
+    "source_sha256": "79abeda65d7d00bd16b5779b696bfe97e1da226336e31ecc57590baf214275fa"
+  },
+  {
+    "file": "data/derived/incremental_universe_coverage.csv",
+    "sha256": "0d7c4e70d32e6c45c105451fb91fe8ec45143be2b1378349c1c39fd7c50e7dbe",
+    "source_name": "universe_coverage.csv",
+    "source_sha256": "6a98f2596f9eccebf96f0e47c21b158a955f193c8ff584eb2da1f6e386bde23a"
+  },
+  {
+    "file": "data/derived/incremental_daily_ic.csv.gz",
+    "sha256": "db44975b6aaf0c18c80c9f8de055e49d80eaac3a3c4388b0577cd892ed23cefb",
+    "source_name": "daily_ic.parquet",
+    "source_sha256": "4d3fe7d21b036fce7cc3c4a55975ee06eb3f2dfa854847c65ab100d64b380fa3"
+  },
+  {
+    "file": "data/derived/incremental_daily_fmb.csv.gz",
+    "sha256": "9bf4b81e302b841db2313ffcda5ff9aab90c204d4c3d3f728dc708a01b6149e8",
+    "source_name": "daily_fmb.parquet",
+    "source_sha256": "0df7f4ddc7f2fcb213c1830b4d44f8d388599e504b3da2e1d2a0874e693c5055"
+  },
+  {
+    "file": "data/derived/books/base__AS.csv.gz",
+    "sha256": "bce95ffc2c4fb352fa976abd8b3a2f3e20723fb2e727b2a240fb501700c3697d",
+    "source_name": "daily_book.parquet",
+    "source_sha256": "2c30f18ef5a6be4be72dca0241063b41d748d6c6de1d2d6eb8ef07e1ac6e428a"
+  },
+  {
+    "file": "data/derived/books/base__AS_res_CV20.csv.gz",
+    "sha256": "5e353a92e9005fd21397a99a00cdb294c6ff22a4149291b1018ee8c6d29d8bcf",
+    "source_name": "daily_book.parquet",
+    "source_sha256": "c05276cd3aaf8e2072499a9e56a7eb42041b337f97fe6345b1594c7dfe656693"
+  },
+  {
+    "file": "data/derived/books/base__AS_res_CVEW40.csv.gz",
+    "sha256": "994826848402ead9f0bece07cc6e09fb183a7b6e6e3177249825882e46dc1a7f",
+    "source_name": "daily_book.parquet",
+    "source_sha256": "231265824b46cbf0b8119844a9f5fe979aa2a577836bf45011954851483f1640"
+  },
+  {
+    "file": "data/derived/books/base__blend_AS_CV20.csv.gz",
+    "sha256": "9e2def0390b527b88eb088f573d4d9e55f3e50133b56005e72dfb9d0211b4c15",
+    "source_name": "daily_book.parquet",
+    "source_sha256": "a251333f97efe44591f0dcc2b1f7266866b37605769693f348072595f09174ad"
+  },
+  {
+    "file": "data/derived/books/base__blend_AS_CVEW40.csv.gz",
+    "sha256": "e15477ce39f44ac616640c6a2036c93f402ae2deeb3c667d8e415c619820f765",
+    "source_name": "daily_book.parquet",
+    "source_sha256": "a8566fbf8da784eea4e2a83eab1d6813fadad67d07bd10b4820f0749490674b9"
+  },
+  {
+    "file": "data/derived/books/base__CV20.csv.gz",
+    "sha256": "cb082eb76be1ba430f1d3b8f33541f648f6e7fd73a57f9c8bbe46c3447686d4d",
+    "source_name": "daily_book.parquet",
+    "source_sha256": "18c5dd950dabbb63de3cd5c226276abbe1007471418113aed6f9ccba2ee21de7"
+  },
+  {
+    "file": "data/derived/books/base__CV20_res_AS.csv.gz",
+    "sha256": "1223d52dccdd4492fe3a1d6fb5429fcd05380568fc897176f809d0785851aa7a",
+    "source_name": "daily_book.parquet",
+    "source_sha256": "67479883011d3fca87f0ea93fac0ce928f26c7adb1b2b34ea5b5f38e37ba0c88"
+  },
+  {
+    "file": "data/derived/books/base__CVEW40.csv.gz",
+    "sha256": "ca2ce79bd014fb7880caa96b00677a843f7daeb238cbadf86a85155fad701555",
+    "source_name": "daily_book.parquet",
+    "source_sha256": "a11e9dbbcbee5926e7c27c2c4628236c36bf18097df4937efd33734d0465e401"
+  },
+  {
+    "file": "data/derived/books/base__CVEW40_res_AS.csv.gz",
+    "sha256": "1246d9ef31f51ce88efd30f70e0a7a477d094d6bc8abee564d6ef8355a0df44a",
+    "source_name": "daily_book.parquet",
+    "source_sha256": "506e94847b24bd10cf103f01309cd00c0be7b377f5809e838467a88d85f8c745"
+  },
+  {
+    "file": "data/derived/books/six__AS.csv.gz",
+    "sha256": "22e10bb2385c1bfcf120bd2fe9e528e2785a04291207abe1f658b3a5f73439ea",
+    "source_name": "daily_book.parquet",
+    "source_sha256": "4f973b36baab3f4a31a0db0d572081b14739b8cf1cf94fb6e409a4baff7d8052"
+  },
+  {
+    "file": "data/derived/books/six__AS_res_CV20.csv.gz",
+    "sha256": "0a326f17fbe16b31fb891395a5b72edc882ccc3a568f08ff7fd3343ef85d71c7",
+    "source_name": "daily_book.parquet",
+    "source_sha256": "ee650c43bb480d6aa8d4a444eb1baea1b87f770ace3c6311475fef0cd9705f72"
+  },
+  {
+    "file": "data/derived/books/six__AS_res_CVEW40.csv.gz",
+    "sha256": "1fb6b17e958c47b089d3eff54e50c36da105a02e8fc71b604dc2b877cae23fd1",
+    "source_name": "daily_book.parquet",
+    "source_sha256": "441aa6e1039cd0f0f117f945c89ea35e6a9bd72b9575284502c0a15a3aa7d27d"
+  },
+  {
+    "file": "data/derived/books/six__blend_AS_CV20.csv.gz",
+    "sha256": "ff7b88b8066ba93bbaa43a0f9ababbb590a92f7837d2c3c3b5c59b016b22da24",
+    "source_name": "daily_book.parquet",
+    "source_sha256": "c6cb0d929056bc757b7380003ab5843cb8e4f30aed67ac6412aba813ab516eca"
+  },
+  {
+    "file": "data/derived/books/six__blend_AS_CVEW40.csv.gz",
+    "sha256": "4a984cb65dc3ab9567c0fa33738e501b416c7b7d39da33126985c50cc2320fd3",
+    "source_name": "daily_book.parquet",
+    "source_sha256": "c6528cc3449afc5740184b1f4d1e83ced9b57d1de12ca8d72f052f8c1bc2e92a"
+  },
+  {
+    "file": "data/derived/books/six__CV20.csv.gz",
+    "sha256": "0ea27a56b410e1e6fcc98045479c475f6808f01af79dbcfc973d8665f1a536d6",
+    "source_name": "daily_book.parquet",
+    "source_sha256": "113adea1a7e7a2e096a6717d056d969c5f4caaefa590d4cc8f9f779392213eee"
+  },
+  {
+    "file": "data/derived/books/six__CV20_res_AS.csv.gz",
+    "sha256": "f81065a07808a7b4389b2b24f0c1487a33c392b9cc53aa227d6554b82da678ce",
+    "source_name": "daily_book.parquet",
+    "source_sha256": "f82e02275b4048151161df3d8e9fd21e19330e90237a80e146ba0128be6ac634"
+  },
+  {
+    "file": "data/derived/books/six__CVEW40.csv.gz",
+    "sha256": "31a08cbc292a39ae9178fad19ff4cdb81de7f28f833a6bed7837bc54b59990b6",
+    "source_name": "daily_book.parquet",
+    "source_sha256": "e618611229f4453b4ef7dbd0c3d871af61b1cfffa70562d080c15acad3587074"
+  },
+  {
+    "file": "data/derived/books/six__CVEW40_res_AS.csv.gz",
+    "sha256": "635a42cd0ead38d2d8ce2bffb51fd8c790f26d374673861d86a3e05ffbdf91cc",
+    "source_name": "daily_book.parquet",
+    "source_sha256": "436e6941a20875163c7e96d94685a505cbd5813ad827833b86c024d5c42914d1"
+  },
+  {
+    "file": "data/derived/original_ic_family540_q552.csv",
+    "sha256": "6b8d436741a80041e1b1afc20ef024e9cc22d85d27a2d9cb3c2838ce4dbd4ed2",
+    "source_name": "已有540检验_合并552项校正.csv",
+    "source_sha256": "1ad2a9e06c9e691fd10e33ae24c9a6df81902aebb0e132837a70e0d88330d5a4"
+  },
+  {
+    "file": "data/derived/original_fmb12_q552.csv",
+    "sha256": "a76a6ed6340e5ad402c4eba8eb360334b9366e3a689f6c641d00361a186bb335",
+    "source_name": "FMB主结果_p与q.csv",
+    "source_sha256": "1b5db4c8f8db5a8926924b3f9d6c560543aa93da02501a90d8ad936bca49bad7"
+  },
+  {
+    "file": "data/derived/original_daily_fmb.csv.gz",
+    "sha256": "d0b97c2562fdce024dcdc20873cd8018ff36edc7930777e341471310040cd390",
+    "source_name": "FMB逐日系数.parquet",
+    "source_sha256": "9efa2824fff38f5c4b86dcff01ac682b51cc8d1f9850c7524d82368dea9d3272"
+  },
+  {
+    "file": "data/derived/plateau_simultaneous.csv",
+    "sha256": "16bcb4c1f219b724cbc0c9c1753ca6e3ba134e738477221bb4df917a3b1b9e46",
+    "source_name": "参数平原_同时不劣检验.csv",
+    "source_sha256": "c48ebb22a11dc85f466a53aad2479210bdab16b3c77fd023fa5814a8c29fefb2"
+  },
+  {
+    "file": "data/derived/plateau_neighbor_bounds.csv",
+    "sha256": "deb12378823d15c26e22785a12eb38c29f00a0f123a98cd01fb475df4e25bb5b",
+    "source_name": "参数平原_逐邻居置信下界.csv",
+    "source_sha256": "aaef1bcbfc90d43c9cc2e1a131ae3ff86b34a6c56be4e3d2caff10d7636648b0"
+  },
+  {
+    "file": "data/derived/robustness_portfolio_metrics.csv",
+    "sha256": "56bf6855fdbd400471f3d6909b58ad56fc16705fcfc7444dcf0bedcf75a84d29",
+    "source_name": "全部组合指标.csv",
+    "source_sha256": "ca81377de022c28a1d1de3e2d07b67bf07d802143b2968e9648fa7a17d8de9c2"
+  },
+  {
+    "file": "data/derived/robustness_ic.csv",
+    "sha256": "6132559ebab95e68efb3b5eb91476685d8369b2ffb55dab282d7dbbbc509fd72",
+    "source_name": "全部IC_RankIC.csv",
+    "source_sha256": "b5aede69d82a4cb76b299313659aea4fccc81a26c111e3cabef4b92294019ed6"
+  },
+  {
+    "file": "data/derived/style_correlations.csv",
+    "sha256": "e0dbeaa7535797c8f135b4e6a1bf38470645308d5b568cf7a07e28e652459cf1",
+    "source_name": "基础信号与六风格相关性.csv",
+    "source_sha256": "72472576579cc27fcb75c5d7a5c607571c9ac72b4c387e5589ef19551d49dfd0"
+  },
+  {
+    "file": "data/derived/style_explanation.csv",
+    "sha256": "da67aaacc3057d2e4aa775165effe0ed51a8edc2180a1465e405db86911812aa",
+    "source_name": "风格解释比例与正交核验.csv",
+    "source_sha256": "0806a115d330de8af4510bdb14e84bd4207d6f15dccd52b85e93b85f13ba569d"
+  },
+  {
+    "file": "data/derived/portfolio_style_exposures.csv",
+    "sha256": "29b7c23f8be03f4de6979c8bc652480ddfdebe35b4d30773952db365e767bcae",
+    "source_name": "基础与六项_实际持仓暴露.csv",
+    "source_sha256": "fe79ef10a55af84173d292803cfdd19cf52203d9261395227d4a3aab49c85401"
+  },
+  {
+    "file": "reports/audit/incremental_fixed_plan.json",
+    "sha256": "c515c4d612182ba7a875474f8387507c3a2832660a3aa4c378ec38666b9c76ad",
+    "source_name": "fixed_plan.json",
+    "source_sha256": "1f9f8fca73ac5e9a125c4441cb857f1131c6c17cb8c932c18a4bbfe7fcbadafe"
+  },
+  {
+    "file": "reports/audit/incremental_historical_checks.json",
+    "sha256": "10997bd4e0423d344dd73152e264b797feadf30fb1771320c27e9be75cf02005",
+    "source_name": "checks.json",
+    "source_sha256": "7ff4c78fc4851713d6cea01af0c3efaff0734ce7a41bc3334097fd08d6dd8100"
+  },
+  {
+    "file": "reports/audit/incremental_historical_verification.json",
+    "sha256": "d44c6a67f9508eff94b9a454c002043c0c727f1080cb081128f4b032bcee4cbe",
+    "source_name": "final_verification.json",
+    "source_sha256": "0adf52ddcf53943894a2fba302d99e989d989318ffa4ae45132316db52529e6b"
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "ew_cv_literal_weights_and_sample_correction": true,
+  "ew_cv_prefix_and_unit_invariance": true,
+  "FMB_matches_joint_lstsq_including_collinearity": true,
+  "FMB_matured_prefix_causality": true,
+  "independent_real_EW_descriptors20points": true,
+  "independent_real_turnover_windows": true,
+  "independent_real504_lag21_momentum20points": true,
+  "max_style_WLS_covariance": 8.22567375952702e-15,
+  "archived_pool_and_all3h_IC_base_six_exactly_reproduced": true,
+  "source": {
+    "source": "486d2f2b847dbcd46338ad4bd1a866191e88782076a1d0b4266d4eb8ba61994eCirculatedMarketValue-v1",
+    "code": "c6c68806f445864d11df03e72f9b275f3812f6adfab40e1bf6699d8de8151bf4",
+    "factor_market": "P9714",
+    "factor_variant": "RiskPremium1/SMB1/HML1; market incl SH/SZ STAR/ChiNext, excludes Beijing",
+    "periods": {
+      "research": [
+        "2010-01-01",
+        "2024-12-31"
+      ],
+      "later": [
+        "2025-01-01",
+        "2026-10-20"
+      ]
+    }
+  },
+  "first_signal": "2012-03-06",
+  "common_t_known_pool": true,
+  "no_future_survival_filter": true,
+  "real_CV20_literal30points": true
+}

@@ -1,0 +1,13 @@
+{
+  "portfolio_summaries": 108,
+  "IC_HAC_statistics": 216,
+  "FMB_HAC_statistics": 84,
+  "original_FMB_HAC_statistics": 12,
+  "BY552": true,
+  "BY372": true,
+  "combinedBY924": true,
+  "manifest_files": 61,
+  "markdown_links_valid": true,
+  "notebook_cells_compile": true,
+  "full_market_backtest_replayed": false
+}

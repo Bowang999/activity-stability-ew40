@@ -1,0 +1,19 @@
+{
+  "new_tests": 372,
+  "models": 18,
+  "cost_period_metrics_independently_recomputed": 108,
+  "FMB_HAC63_independently_recomputed": 84,
+  "exact_original_base_and_six_all3cost_daily_ledgers_and_all3h_IC": true,
+  "common_pool_equals_archived_pool": true,
+  "BY_adjustment_literal_sorted_min_verified": true,
+  "bootstrap_nonzero_p": true,
+  "all6_figures_visually_reviewed": true,
+  "all_figure_text_inside_canvas": true,
+  "baseline_definition_confirmed_by_user": true,
+  "all_history_exploratory": true,
+  "code_sha256": {
+    "ew40_turnover_cv_increment.py": "bf743224af445fb1ad28a153aa42a7d413bd8924d873aa8fc671d12e2bc6816c",
+    "ew40_turnover_cv_report.py": "0b6110d6a1067deedc88bd98be894104f4a91c25af929fce35428537faef884e",
+    "ew40_turnover_cv_qa.py": "15354d74677c31b81a04341951df24c57adc245c34b1fdd05a2ec40dd84564ba"
+  }
+}
