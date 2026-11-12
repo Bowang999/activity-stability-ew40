@@ -1,0 +1,5 @@
+# Preserve byte-exact exported research snapshots and their SHA256 manifests.
+* -text
+*.pdf binary
+*.png binary
+*.gz binary
